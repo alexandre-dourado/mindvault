@@ -3,7 +3,7 @@
 // Replace the value below with your deployed Google Apps Script Web App URL.
 // Deploy → New Deployment → Web App → Execute as: Me → Access: Anyone
 // ─────────────────────────────────────────────────────────────────────────────
-export const API_URL = 'https://script.google.com/macros/s/AKfycbwrzHOiN5Bl--QF_UWlSekmv5x_iA75sb2RkkgnNoVHhDka7KfgPUpFZRlvU1N55dE/exec';
+export const API_URL = 'https://script.google.com/macros/s/AKfycbwv4_cnhLrDgpSYRtMCFbQ_ITNsICUdxQkiR8IfXjOqtf2CpGefRgX_81YQOElUvZI/exec';
 
 export const API_TIMEOUT = 15000; // ms
 
